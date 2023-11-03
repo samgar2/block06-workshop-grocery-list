@@ -34,7 +34,8 @@ h1 {
     border-width: 2px;
     padding: 3px;
     margin: 10px;
-    width: 120px;
+    width: 130px;
+    height: 150px;
 }
 
 .drygoods {
@@ -48,6 +49,7 @@ h1 {
     padding: 3px;
     margin: 10px;
     width: 120px;
+    height: 150px;
 }
 
 .freezeritems {
@@ -85,7 +87,7 @@ h1 {
     border-width: 2px;
     padding: 3px;
     margin: 10px;
-    width: 120px;
+    width: 160px;
 }
 
 .image1 {
